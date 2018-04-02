@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "fromNick": "一个大连的男生",
+        "fromEncodeUin": "*S1*7KoAoe4loiEF",
+        "fromFaceUrl": "man.png",
+        "fromGender": 0,
+        "toUin": 1293445858,
+        "toNick": "",
+        "topicId": 413,
+        "topicName": "看电影容易感动到哭",
+        "timestamp": 1522625334
+      },
+      {
+        "fromNick": "一个19岁的男生",
+        "fromEncodeUin": "*S1*NeEkoiviNKc5",
+        "fromFaceUrl": "man.png",
+        "fromGender": 0,
+        "toUin": 1293445858,
+        "toNick": "",
+        "topicId": 108,
+        "topicName": "你办事我放心",
+        "timestamp": 1522589728
+      },
+      {
+        "fromNick": "一个射手座的男生",
+        "fromEncodeUin": "*S1*NeEkoiviNKc5",
+        "fromFaceUrl": "man.png",
+        "fromGender": 0,
+        "toUin": 1293445858,
+        "toNick": "",
+        "topicId": 448,
+        "topicName": "用脚步丈量世界",
+        "timestamp": 1522589665
+      },
+      {
+        "fromNick": "一个认识8个月的男生",
+        "fromEncodeUin": "*S1*owSioi6kowS5",
+        "fromFaceUrl": "man.png",
+        "fromGender": 0,
+        "toUin": 1293445858,
+        "toNick": "",
+        "topicId": 152,
+        "topicName": "到哪都是领导者",
+        "timestamp": 1522513019
+      },
+      {
+        "fromNick": "一个认识5个月的女生",
+        "fromEncodeUin": "*S1*owo57wok7icioc",
+        "fromFaceUrl": "woman.png",
+        "fromGender": 1,
+        "toUin": 1293445858,
+        "toNick": "",
+        "topicId": 283,
+        "topicName": "充满校园的气息",
+        "timestamp": 1522511331
+      },
+      {
+        "fromNick": "一个认识7个月的男生",
+        "fromEncodeUin": "*S1*7evl7e4A7i4k",
+        "fromFaceUrl": "man.png",
+        "fromGender": 0,
+        "toUin": 1293445858,
+        "toNick": "",
+        "topicId": 444,
+        "topicName": "扎起马尾好好看",
+        "timestamp": 1522510942
+      },
+      {
+        "fromNick": "一个认识2年的女生",
+        "fromEncodeUin": "*S1*oKSiow6A7e-l7z",
+        "fromFaceUrl": "woman.png",
+        "fromGender": 1,
+        "toUin": 1293445858,
+        "toNick": "",
+        "topicId": 116,
+        "topicName": "能搞定各种疑难问题",
+        "timestamp": 1522487007
+      },
+      {
+        "fromNick": "一个18岁的男生",
+        "fromEncodeUin": "*S1*NKvsNKozoK4k",
+        "fromFaceUrl": "man.png",
+        "fromGender": 0,
+        "toUin": 1293445858,
+        "toNick": "",
+        "topicId": 287,
+        "topicName": "写的一手好PPT",
+        "timestamp": 1522420648
+      }
+    ],
+    "cookie": "CgAQqJf51QU\u003d",
+    "finish": 1
+  }
+}
